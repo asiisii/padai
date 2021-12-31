@@ -14,3 +14,5 @@ def bubble_sort(arr, sorted_arr = [])
 end
 
 print bubble_sort([4,3,78,2,0,2])
+# test with other data
+print bubble_sort([10, 2, 6, 2, 1, 5, 8, 6, 0, 2, 8, 9])
